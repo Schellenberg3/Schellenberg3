@@ -6,4 +6,10 @@ I believe in developing simple, elegant solutions to practical problems. Above a
 
 Presently, I am a master's student at [Artificially Intelligent Manufacturing Systems (AIMS) Lab](https://cdme.osu.edu/aims-lab) at Ohio State.
 
-Please reach out for the most up-to-date overview of my projects and experiences.
+Some of my research interests include:
+-	🧠 Machine learning and reinforcement learning
+-	📸 Image processing and computer vision
+-	👁️‍🗨️ Visuomotor control of robotics
+-	🔁 Sim-to-real transfer
+
+Please reach out and say hi! I'm always excited to talk about my project and find ways to collaborate.
